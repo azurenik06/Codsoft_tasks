@@ -1,0 +1,20 @@
+# To-Do List Application
+
+A lightweight, command-line interface (CLI) To-Do List application built using Object-Oriented Programming (OOP) principles in Python. This project was developed as part of the **CodSoft Python Programming Internship**.
+
+---
+
+## 📌 Project Overview
+Managing daily tasks efficiently is key to productivity. This application allows users to create, view, manage, and track their daily tasks directly from the terminal. It features built-in error handling and a structured user menu to ensure a smooth user experience.
+
+## ✨ Features
+* **Add Tasks:** Create new tasks with custom descriptions.
+* **View Tasks:** Display all tasks in a formatted table layout showing their current status (Pending/Completed).
+* **Mark as Complete:** Toggle the status of a task from pending `[ ]` to completed `[X]`.
+* **Delete Tasks:** Remove unwanted or completed tasks from the list with an option to cancel the operation.
+* **Input Validation:** Prevents empty tasks and handles incorrect numerical selections gracefully without crashing.
+
+## 🛠️ Concepts Used
+* **Object-Oriented Programming (OOP):** Organized using `Task` and `ToDoList` classes for modularity and maintainability.
+* **Data Structures:** Utilizes Python lists and dictionaries to track live tasks.
+* **Error Handling:** Implements `try-except` blocks to handle invalid user inputs safely.
