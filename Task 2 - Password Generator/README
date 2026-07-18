@@ -1,0 +1,20 @@
+📌 CodSoft Internship - Python Programming
+
+Task: Password Generator
+Internship: CodSoft Python Programming Internship
+
+📖 Project Description
+
+This project is a Password Generator developed using Python. It generates secure and random passwords based on the user's preferred password length and complexity level.
+
+The program allows users to choose from three different password strength options and creates a random password using Python's built-in random and string modules.
+
+✨ Features
+Generates random passwords of any desired length.
+Offers three levels of password complexity:
+Weak – Alphabetic characters (A–Z, a–z)
+Strong – Letters and numbers
+Very Strong – Letters, numbers, and special characters
+Validates user input for password length.
+Handles invalid inputs gracefully using exception handling.
+Produces a secure random password every time the program runs.
