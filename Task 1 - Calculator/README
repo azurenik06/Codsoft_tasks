@@ -1,0 +1,27 @@
+📌 CodSoft Internship - Python Programming
+
+Task: Calculator Application
+Internship: CodSoft Python Programming Internship
+
+📖 Project Description
+
+This project is a GUI-based Simple Calculator developed using Python's built-in Tkinter library. It allows users to perform basic arithmetic operations through an interactive graphical interface.
+
+The application accepts two numerical inputs and performs one of the following operations:
+
+➕ Addition
+➖ Subtraction
+✖️ Multiplication
+➗ Division
+
+The calculator also includes input validation, error handling, and utility features such as clearing inputs and exiting the application.
+
+✨ Features
+User-friendly graphical interface built with Tkinter.
+Supports four basic arithmetic operations.
+Validates empty input fields.
+Handles invalid numeric input gracefully.
+Prevents division by zero.
+Automatically removes unnecessary decimal places for whole number results.
+Clear button to reset all fields.
+Exit button to close the application.
