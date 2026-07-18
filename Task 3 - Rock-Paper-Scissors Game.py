@@ -26,7 +26,7 @@ while True:
     elif pchoice == 3:
         player = "scissors"
     else:
-        print(f"Total player's wins are {playersc} & Computer's wins are {computersc}.")
+        print(f"Total player's wins: {playersc} & Computer's wins: {computersc}.")
         break
     print("Player's Choice:", player)
 
