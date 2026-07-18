@@ -1,0 +1,19 @@
+📌 CodSoft Internship - Python Programming
+
+Task: Rock Paper Scissors Game
+Internship: CodSoft Python Programming Internship
+
+📖 Project Description
+
+This project is a console-based Rock Paper Scissors game developed using Python. The player competes against the computer by selecting Rock, Paper, or Scissors. The computer randomly generates its choice, and the winner is determined according to the standard game rules.
+
+The game keeps track of both the player's and the computer's scores until the player chooses to exit.
+
+✨ Features
+Interactive command-line gameplay.
+Computer generates random choices using Python's random module.
+Implements standard Rock-Paper-Scissors game rules.
+Maintains and displays player and computer scores.
+Input validation for invalid or non-numeric entries.
+Allows the player to exit the game at any time.
+Displays the final score before exiting.
